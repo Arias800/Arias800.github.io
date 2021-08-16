@@ -4,6 +4,6 @@
 [submodule "repo/script.module.dnspython"]
 	path = repo/script.module.dnspython
 	url = https://github.com/Arias800/script.module.dnspython
-[submodule "repo/plugin.video.artemediathek"]
-	path = repo/plugin.video.artemediathek
+[submodule "plugin.video.artemediathek"]
+	path = plugin.video.artemediathek
 	url = https://github.com/Arias800/plugin.video.artemediathek
