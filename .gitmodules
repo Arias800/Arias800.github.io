@@ -4,3 +4,7 @@
 [submodule "repo/script.module.dnspython"]
 	path = repo/script.module.dnspython
 	url = https://github.com/Arias800/script.module.dnspython
+[submodule "repo/plugin.video.crunchyroll"]
+	path = repo/plugin.video.crunchyroll
+	url = https://github.com/MrKrabat/plugin.video.crunchyroll/
+	branch = matrix
