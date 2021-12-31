@@ -8,3 +8,6 @@
 	path = repo/plugin.video.crunchyroll
 	url = https://github.com/MrKrabat/plugin.video.crunchyroll/
 	branch = matrix
+[submodule "repo/service.discord.richpresence"]
+	path = repo/service.discord.richpresence
+	url = https://github.com/Hiumee/service.discord.richpresence
