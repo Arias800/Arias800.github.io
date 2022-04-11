@@ -11,3 +11,6 @@
 [submodule "repo/service.discord.richpresence"]
 	path = repo/service.discord.richpresence
 	url = https://github.com/Hiumee/service.discord.richpresence
+[submodule "repo/plugin.video.vikir"]
+	path = repo/plugin.video.vikir
+	url = https://github.com/Arias800/plugin.video.vikir
