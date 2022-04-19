@@ -63,7 +63,7 @@
        <screenshot>resources/screenshot-03.jpg</screenshot>
 	</assets>
   </extension>
-</addon><addon id="plugin.video.wnbc" name="WNBC Programs" version="4.0.4" provider-name="t1m/ Arias800">
+</addon><addon id="plugin.video.wnbc" name="WNBC Programs" version="4.0.5" provider-name="t1m/Arias800">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.t1mlib" version="4.0.0" />
