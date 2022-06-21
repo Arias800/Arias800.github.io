@@ -14,3 +14,4 @@
 [submodule "repo/plugin.video.vikir"]
 	path = repo/plugin.video.vikir
 	url = https://github.com/Arias800/plugin.video.vikir
+	branch = main
