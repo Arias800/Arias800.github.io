@@ -109,11 +109,11 @@
     </extension>
 </addon>
 
-<addon id="script.module.dnspython" name="DNS Python" version="1.12.1" provider-name="dnspython">
+<addon id="script.module.dnspython" name="DNS Python" version="1.12.2" provider-name="dnspython">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
-  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.python.module" library="lib/dnspython" />
   <extension point="xbmc.addon.metadata">
 	<summary>A Pure Python DNS module</summary>
 	<description>A Pure Python DNS module</description>
@@ -126,7 +126,7 @@
 	<email />
 	<source>https://github.com/Arias800/script.module.dnspython/</source>
   </extension>
-</addon><addon id="service.discord.richpresence" name="Discord Rich Presence" version="1.4.0" provider-name="Hiumee">
+</addon><addon id="service.discord.richpresence" name="Discord Rich Presence" version="1.5.0" provider-name="Hiumee">
 <requires>
   <import addon="xbmc.python" version="3.0.0" />
   <import addon="script.module.requests" />
