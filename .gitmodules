@@ -1,9 +1,6 @@
 [submodule "repo/plugin.video.wnbc"]
 	path = repo/plugin.video.wnbc
 	url = https://github.com/Arias800/plugin.video.wnbc
-[submodule "repo/script.module.dnspython"]
-	path = repo/script.module.dnspython
-	url = https://github.com/Arias800/script.module.dnspython
 [submodule "repo/plugin.video.crunchyroll"]
 	path = repo/plugin.video.crunchyroll
 	url = https://github.com/MrKrabat/plugin.video.crunchyroll/
@@ -15,3 +12,6 @@
 	path = repo/plugin.video.vikir
 	url = https://github.com/Arias800/plugin.video.vikir
 	branch = main
+[submodule "repo/script.module.dnspython/dnspython"]
+	path = repo/script.module.dnspython/dnspython
+	url = https://github.com/rthalley/dnspython/

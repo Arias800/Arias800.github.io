@@ -113,7 +113,7 @@
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
-  <extension point="xbmc.python.module" library="lib/dnspython" />
+  <extension point="xbmc.python.module" library="lib/dns" />
   <extension point="xbmc.addon.metadata">
 	<summary>A Pure Python DNS module</summary>
 	<description>A Pure Python DNS module</description>
