@@ -109,7 +109,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.dnspython" name="DNS Python" version="1.12.2" provider-name="dnspython">
+<addon id="script.module.dnspython" name="DNS Python" version="1.12.3" provider-name="dnspython">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
